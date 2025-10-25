@@ -118,6 +118,13 @@ This project evaluates the balance and fairness of gender participation and sala
 ---
  
 ## ✅ Business Impact & Use Cases   
+* Supports gender equity reporting and compliance with global sports standards.
+
+* Enables salary budgeting and sponsorship alignment per sport and gender.
+
+* Empowers HR and management to identify underrepresented sports for development.
+
+* Forms basis for Kevaro’s Diversity & Inclusion dashboard in future athlete selection cycles.
 
  ---
  
