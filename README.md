@@ -113,10 +113,10 @@ This project evaluates the balance and fairness of gender participation and sala
 ---
  
 ## 🖥️ Dashboard Overview
-![image alt](https://github.com/Cnik1710/Allen-Brook-College-of-Data-Engineering-Placement-Analysis-2024-25/blob/4b57070016abfe6a8aa65905293008b044bb703d/Allen%20Brook%20College%20of%20Data%20%26%20Engineering%20(ABCDE)%20Placement%20Analysis%20Dashboard.png)
+![image alt](https://github.com/Cnik1710/Kevaro-Athletics-Co.-Membership-Systemization-Analysis/blob/aa2996caef41d9fc465f8d0cd5d171d6d83ccc6a/Kevaro%20Athletics%20%26%20Co.%20Membership%20Systemization%20Analytics%20Dashboard.png)
 
 ---
- 
+
 ## ✅ Business Impact & Use Cases   
 * Supports gender equity reporting and compliance with global sports standards.
 
