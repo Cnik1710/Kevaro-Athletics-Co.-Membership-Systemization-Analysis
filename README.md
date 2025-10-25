@@ -1,7 +1,7 @@
 # Kevaro-Athletics-Co.-Membership-Systemization-Analysis
  ---
 ## 🎯 Objective
-To analyze the gender-wise representation and salary distribution across different sports and countries for Kevaro Athletics’ global selection pool.The goal is to identify patterns in participation diversity, pay disparity, and high-salary sports to support equitable athlete management and strategic talent investments.
+To analyze the gender-wise representation and salary distribution across different sports and countries for Kevaro Athletics’ global selection pool. The goal is to identify patterns in participation diversity, pay disparity, and high-salary sports to support equitable athlete management and strategic talent investments.
 
 ### **Project Purpose:**
 * Evaluate the sport-wise and country-wise candidate participation in the selection pool.
