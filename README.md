@@ -51,7 +51,7 @@ To analyze the gender-wise representation and salary distribution across differe
  
 ## 💻 Tech Stack    
 ### **Tools:**
-  * **Microsoft Excel**
+  * **Excel**
       * Data cleaning & preprocessing
       * Pivot Tables for aggregation
       * Pivot Charts for visualizations
