@@ -32,7 +32,7 @@ To analyze the gender-wise representation and salary distribution across differe
 ### **Data Source:**  
   * **Source:** Fictionalized Kevaro Athletics dataset (inspired by public sports/athletics datasets).
   * **Data Type:** Structured tabular dataset (athlete-level summary).
-  * **Time Period:** One-time Snapshot of the latest global selection pool cycle (FY 2023–24).
+  * **Time Period:** One-time Snapshot of the latest global selection pool cycle (FY 2023–24).
 ### **Data Structure & Metrics:** 
   * **Key Index Types:** Athlete-level records (each row = 1 candidate).
   * **Total Rows:** 50.
