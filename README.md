@@ -1,5 +1,4 @@
-# Kevaro Athletics & Co. Membership Systemization Analysis
- ---
+# Kevaro Athletics - Membership Systemization Analysis
 ## 🎯 Objective
 To analyze the gender-wise representation and salary distribution across different sports and countries for Kevaro Athletics’ global selection pool. The goal is to identify patterns in participation diversity, pay disparity, and high-salary sports to support equitable athlete management and strategic talent investments.
 ### **Project Purpose:**
@@ -61,13 +60,23 @@ To analyze the gender-wise representation and salary distribution across differe
 ---
         
 ## 📈 Methodology & Analysis  
-### **Prepare, Process & Analytical Approach:** 
-  * **Data Cleaning:** Standardized missing values (e.g., gender blanks in Brazil).
-  * **Aggregation:** Calculated total and gender-wise salaries across sports.
-  * **Segmentation:** Categorized by Country and Sport for participation distribution.
-  * **Visualization:** Created stacked column visuals for gender participation and salary contribution.
-  * **Comparison Metrics:** Derived ratio of Male:Female salary and participation per sport.
-  * **Validation:** Ensured total athlete count = 50, total salary balance validated.
+### **Prepararation, Process & Analytical Approach:**   
+  * **Data Preparation & Cleaning:**
+    * Standardized missing and inconsistent values (e.g., gender blanks corrected for Brazil).
+    * Ensured uniform formatting for country names, sports categories, and salary fields.
+  * **Data Modeling & Integration:**
+    * Structured the dataset by linking Country, Sport, Gender, and Salary attributes.
+    * Created pivot-based aggregation models to support multi-dimensional analysis.
+  * **Feature Engineering:**
+    * Computed total salary and gender-wise salary contributions per sport and country.
+    * Derived participation counts and Male–Female ratios for both salary and headcount.
+  * **Visualization Design:**
+    * Designed stacked column charts to highlight gender participation and salary distribution.
+    * Applied standardized color coding (Female vs Male) for consistency across dashboards.
+  * **Validation & Formatting:**
+    * Verified total candidate count equals 50 athletes across all dimensions.
+    * Validated salary totals (USD 3.359M) and cross-checked against pivot summaries.
+    * Applied professional number formatting (K/M) for readability and executive clarity.
 ---
  
 ## ❓ Problem Statement     
